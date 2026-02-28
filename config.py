@@ -7,11 +7,11 @@ STOP_WORD = "stop"
 
 # User Configuration
 USER_NAME = "Sir"
-USER_EMAIL = "your_email@example.com"  # Replace with actual email
-USER_PHONE = "+910000000000"          # Replace with actual phone
+USER_EMAIL = "Chandra0083@gmail.com"  # Replace with actual email
+USER_PHONE = "+919927385510"          # Replace with actual phone
 
 # Telegram Configuration (For Phone Integration)
-TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE" 
+TELEGRAM_TOKEN = "8765673357:AAELABk6CollH-kcMHNPAC8aA5vmNPAx94s" 
 AUTHORIZED_USER_ID = None  # Set this to your Telegram ID to prevent others from controlling
 
 # Directory Configuration
